@@ -1,0 +1,7 @@
+transaction_id,timestamp,customer_id,amount,currency,country,merchant_id,channel,status
+tx_001,2025-12-02T10:00:00,client_01,39.99,EUR,FR,shop_01,ONLINE,APPROVED
+tx_002,2025-12-02T10:01:00,client_02,120.50,EUR,DE,shop_03,POS,APPROVED
+tx_003,2025-12-02T10:02:00,client_03,5400.00,EUR,RU,shop_02,ONLINE,APPROVED
+tx_004,2025-12-02T10:03:00,client_01,12.10,EUR,FR,shop_01,POS,APPROVED
+tx_005,2025-12-02T10:04:00,client_04,855.90,EUR,ES,shop_04,ONLINE,DECLINED
+tx_006,2025-12-02T10:05:00,client_02,9000.00,EUR,IR,shop_09,ONLINE,APPROVED
